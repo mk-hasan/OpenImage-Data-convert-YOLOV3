@@ -1,17 +1,17 @@
-# Make YOLO format data label from OpenImage dataset
+## Make YOLO format data label from OpenImage dataset
 
-#DataSet Description
+# DataSet Description
 - **Train** : 1.7 million almost
 - **Test** : 125k almost
 - **Validation** : 40k almost
 
-#Data label from OpenImage annotations csv file 
+# Data label from OpenImage annotations csv file 
 ![sample oi data labels](/oiorig.png)
 
 **The yolo format**
 ![sample oi data labels](/oiconv.png)
 
-#What you can do with this python(Jupyter) file
+# What you can do with this python(Jupyter) file
 * Creat yolo v2/v3 format labels 
 * Creat single class to n(600) class labels
 * Create hierarcichal labels (Animals, Vehicles, Toy)
