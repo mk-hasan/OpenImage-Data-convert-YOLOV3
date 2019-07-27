@@ -6,7 +6,10 @@
 - **Validation** : 40k almost
 
 #Data label from OpenImage annotations csv file 
+![sample oi data labels](/oiorig.png)
 
+**The yolo format**
+![sample oi data labels](/oiconv.png)
 
 #What you can do with this python(Jupyter) file
 * Creat yolo v2/v3 format labels 
